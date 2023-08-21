@@ -28,8 +28,9 @@ const items = [
 ];
 
 function openWin() {
-  myWindow = window.open("me.html", "myWindow", "width=100vw,height=100vh");   // Opens a new window
+  myWindow = window.open("me.html", "myWindow", "width=100vw","height=100vh");   // Opens a new window
 }
+
 function confirm(){
   alert(" FEEDBACK SENT SUCCESSFULLY. THANKS FOR YOUR FEEDBACK!!!! ");
 }

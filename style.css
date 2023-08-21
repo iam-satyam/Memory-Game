@@ -127,10 +127,10 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    justify-content: space-between;
-    position: relative;
-    top: 50px;
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    /* position: relative; */
+    /* top: 50px; */
 }
 
 h4 {
